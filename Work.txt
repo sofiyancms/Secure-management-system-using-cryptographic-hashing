@@ -1,0 +1,42 @@
+Blockchain Based Management for Organ Donation and Transplantation
+
+Kidney
+Liver
+Brain
+Heart
+Eye
+Intestines
+Lungs
+Pancreas
+Small bowel
+
+
+Donors Details
+
+Organ Name
+Donor Name
+Donor Age
+Blood Group
+Height
+Weight
+Registeting user type
+Registered Date
+Donation Status
+
+
+
+
+CREATE TABLE `Donors` (
+  `si_no` int(11) NOT NULL auto_increment,
+  `organ_name` text,
+  `donar_name` text,
+  `donor_age` text,
+  `blood_group` text,
+  `height` text,
+  `weight` text,
+  `ruser_type` text,
+  `registered_date` text,
+  `donation_status` text,
+  PRIMARY KEY  (`si_no`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
