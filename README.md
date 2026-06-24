@@ -168,7 +168,7 @@ This project was developed as a Final Year Academic Project for demonstrating th
 
 ## 👤 Author
 
-**Sofiya Saffu**
+**Sofiya**
 
 Bachelor of Computer Applications (BCA)
 
